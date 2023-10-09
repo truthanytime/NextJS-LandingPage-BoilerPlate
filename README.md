@@ -1,18 +1,17 @@
 # Landing Page Template built with Next JS 13+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
 
 <p align="center">
-  <a href="https://creativedesignsguru.com/demo/nextjs-landing-page/"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
+  <a href="#"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
 </p>
 
 🚀 Landing Page theme written in Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
 
-Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
+Clone this project and use it to create your own [Next.js](https://nextjs.org) project. 
 
 ### DEMO
 
-[![Nextjs Landing Page Template Screenshot](public/assets/images/nextjs-landing-page-screenshot.png?raw=true)](https://creativedesignsguru.com/demo/nextjs-landing-page/)
+[![Nextjs Landing Page Template Screenshot](public/assets/images/nextjs-landing-page-screenshot.png?raw=true)]
 
-Check out our [live demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
 
 ### Features
 
@@ -48,7 +47,6 @@ Built-in feature from Next.js:
 - CTA banner
 - Footer
 
-Find more components in our [premium NextJS themes](https://creativedesignsguru.com/category/nextjs/).
 
 ### Philosophy
 
@@ -58,7 +56,7 @@ Find more components in our [premium NextJS themes](https://creativedesignsguru.
 
 ## Sponsors
 
-[![React SaaS Boilerplate Next.js](https://creativedesignsguru.com/assets/images/themes/nextlessjs-github-banner.png)](https://nextlessjs.com)
+[![React SaaS Boilerplate Next.js]](https://nextlessjs.com)
 
 ### Requirements
 
@@ -69,7 +67,7 @@ Find more components in our [premium NextJS themes](https://creativedesignsguru.
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template.git my-project-name
+git clone --depth=1 https://github.com/truthanytime/NextJS-LandingPage-BoilerPlate.git my-project-name
 cd my-project-name
 npm install
 ```
@@ -172,8 +170,3 @@ Licensed under the MIT License, Copyright © 2023
 
 See [LICENSE](LICENSE) for more information.
 
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
